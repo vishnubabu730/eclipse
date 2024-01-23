@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-03T17:26:27 IST" name="Suite" finished-at="2024-01-03T17:27:00 IST" duration-ms="32740">
+    <groups>
+    </groups>
+    <test started-at="2024-01-03T17:26:27 IST" name="Test" finished-at="2024-01-03T17:27:00 IST" duration-ms="32740">
+      <class name="herbaltestpkg.herballogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:herbaltestpkg.herballogintest@53aac487]" started-at="2024-01-03T17:26:27 IST" name="setup" finished-at="2024-01-03T17:26:39 IST" duration-ms="11982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcreate()[pri:0, instance:herbaltestpkg.herballogintest@53aac487]" started-at="2024-01-03T17:26:39 IST" name="testcreate" finished-at="2024-01-03T17:26:44 IST" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreate -->
+      </class> <!-- herbaltestpkg.herballogintest -->
+      <class name="herbaltestpkg.healthherbaltest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:herbaltestpkg.healthherbaltest@242b836]" started-at="2024-01-03T17:26:44 IST" name="setup" finished-at="2024-01-03T17:26:53 IST" duration-ms="9817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="healthherbaltestcreate()[pri:0, instance:herbaltestpkg.healthherbaltest@242b836]" started-at="2024-01-03T17:26:53 IST" name="healthherbaltestcreate" finished-at="2024-01-03T17:27:00 IST" duration-ms="6532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthherbaltestcreate -->
+      </class> <!-- herbaltestpkg.healthherbaltest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
